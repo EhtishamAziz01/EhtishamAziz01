@@ -81,9 +81,18 @@ Nutrition-aware recipe recommender processing 984K recipes with KNN + TF-IDF hyb
 </td>
 <td width="50%" valign="top">
 
-### 🔜 More coming soon...
+### 🔍 [Audit Risk Analytics](https://github.com/EhtishamAziz01/audit-risk-analytics)
+**Financial transaction anomaly detection**
 
-Currently working on new projects to expand my portfolio. Stay tuned!
+End-to-end audit analytics pipeline scoring risk across 284K credit card transactions using Isolation Forest & LOF ensemble (ROC-AUC 0.948).
+
+`Python` `Scikit-learn` `DuckDB` `Streamlit` `Docker` `Plotly`
+
+**Highlights:**
+- 🏦 Multi-factor risk scoring engine (0–100 scale)
+- 🤖 Isolation Forest + LOF anomaly ensemble
+- 📊 Interactive 5-page Streamlit dashboard
+- ✅ 27 unit tests, fully containerized
 
 </td>
 </tr>
