@@ -36,7 +36,7 @@ languages: English (Native) · Greek (Proficient) · German (Advanced)
 <tr>
 <td width="50%" valign="top">
 
-### 🍽️ [RecipeIQ](https://github.com/EhtishamAziz01/RecipeIQ)
+### [RecipeIQ](https://github.com/EhtishamAziz01/RecipeIQ)
 **Full-stack food intelligence platform**
 
 Built on the Food.com dataset (522K+ recipes), featuring a complete data pipeline, four ML models, and a Gemini-powered RAG chatbot.
@@ -44,15 +44,15 @@ Built on the Food.com dataset (522K+ recipes), featuring a complete data pipelin
 `Python` `DuckDB` `MLflow` `FastAPI` `Docker` `Streamlit` `ChromaDB` `Gemini`
 
 **Highlights:**
-- 📊 4 ML models — prediction, clustering, sentiment, recommender
-- 🤖 RAG chatbot with ChromaDB + Gemini
-- 🐳 Fully containerized with Docker
-- 📈 Experiment tracking with MLflow
+- 4 ML models — prediction, clustering, sentiment, recommender
+- RAG chatbot with ChromaDB + Gemini
+- Fully containerized with Docker
+- Experiment tracking with MLflow
 
 </td>
 <td width="50%" valign="top">
 
-### 📊 [Data Jobs Dashboard](https://github.com/EhtishamAziz01/data-jobs-dashboard)
+### [Data Jobs Dashboard](https://github.com/EhtishamAziz01/data-jobs-dashboard)
 **Ireland job market analytics**
 
 End-to-end analytics project analyzing 2,000+ real LinkedIn job postings to uncover trends in Ireland's data job market.
@@ -60,17 +60,17 @@ End-to-end analytics project analyzing 2,000+ real LinkedIn job postings to unco
 `Python` `DuckDB` `Power BI` `Pandas` `SQL`
 
 **Highlights:**
-- 🔍 2,000+ LinkedIn postings analyzed
-- 🗄️ Automated ETL pipeline with DuckDB
-- 📊 Interactive Power BI dashboard
-- 🇮🇪 Ireland-focused market insights
+- 2,000+ LinkedIn postings analyzed
+- Automated ETL pipeline with DuckDB
+- Interactive Power BI dashboard
+- Ireland-focused market insights
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🧑‍🍳 MacroChefAI
+### MacroChefAI
 **ML recipe recommendation engine**
 *Team project — Le Wagon*
 
@@ -81,7 +81,7 @@ Nutrition-aware recipe recommender processing 984K recipes with KNN + TF-IDF hyb
 </td>
 <td width="50%" valign="top">
 
-### 🔍 [Audit Risk Analytics](https://github.com/EhtishamAziz01/audit-risk-analytics)
+### [Audit Risk Analytics](https://github.com/EhtishamAziz01/audit-risk-analytics)
 **Financial transaction anomaly detection**
 
 End-to-end audit analytics pipeline scoring risk across 284K credit card transactions using Isolation Forest & LOF ensemble (ROC-AUC 0.948).
@@ -89,10 +89,10 @@ End-to-end audit analytics pipeline scoring risk across 284K credit card transac
 `Python` `Scikit-learn` `DuckDB` `Streamlit` `Docker` `Plotly`
 
 **Highlights:**
-- 🏦 Multi-factor risk scoring engine (0–100 scale)
-- 🤖 Isolation Forest + LOF anomaly ensemble
-- 📊 Interactive 5-page Streamlit dashboard
-- ✅ 27 unit tests, fully containerized
+- Multi-factor risk scoring engine (0–100 scale)
+- Isolation Forest + LOF anomaly ensemble
+- Interactive 5-page Streamlit dashboard
+- 27 unit tests, fully containerized
 
 </td>
 </tr>
