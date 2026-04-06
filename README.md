@@ -36,6 +36,22 @@ languages: English (Native) · Greek (Proficient) · German (Advanced)
 <tr>
 <td width="50%" valign="top">
 
+### [Audit Risk Analytics](https://github.com/EhtishamAziz01/audit-risk-analytics)
+**Financial transaction anomaly detection**
+
+End-to-end audit analytics pipeline scoring risk across 284K credit card transactions using Isolation Forest & LOF ensemble (ROC-AUC 0.948).
+
+`Python` `Scikit-learn` `DuckDB` `Streamlit` `Docker` `Plotly`
+
+**Highlights:**
+- Multi-factor risk scoring engine (0–100 scale)
+- Isolation Forest + LOF anomaly ensemble
+- Interactive 5-page Streamlit dashboard
+- 27 unit tests, fully containerized
+
+</td>
+<td width="50%" valign="top">
+
 ### [RecipeIQ](https://github.com/EhtishamAziz01/RecipeIQ)
 **Full-stack food intelligence platform**
 
@@ -50,6 +66,8 @@ Built on the Food.com dataset (522K+ recipes), featuring a complete data pipelin
 - Experiment tracking with MLflow
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [Data Jobs Dashboard](https://github.com/EhtishamAziz01/data-jobs-dashboard)
@@ -66,8 +84,6 @@ End-to-end analytics project analyzing 2,000+ real LinkedIn job postings to unco
 - Ireland-focused market insights
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### MacroChefAI
@@ -77,22 +93,6 @@ End-to-end analytics project analyzing 2,000+ real LinkedIn job postings to unco
 Nutrition-aware recipe recommender processing 984K recipes with KNN + TF-IDF hybrid ranking, deployed on GCP Cloud Run.
 
 `Python` `Scikit-learn` `FastAPI` `GCP Cloud Run` `TF-IDF`
-
-</td>
-<td width="50%" valign="top">
-
-### [Audit Risk Analytics](https://github.com/EhtishamAziz01/audit-risk-analytics)
-**Financial transaction anomaly detection**
-
-End-to-end audit analytics pipeline scoring risk across 284K credit card transactions using Isolation Forest & LOF ensemble (ROC-AUC 0.948).
-
-`Python` `Scikit-learn` `DuckDB` `Streamlit` `Docker` `Plotly`
-
-**Highlights:**
-- Multi-factor risk scoring engine (0–100 scale)
-- Isolation Forest + LOF anomaly ensemble
-- Interactive 5-page Streamlit dashboard
-- 27 unit tests, fully containerized
 
 </td>
 </tr>
